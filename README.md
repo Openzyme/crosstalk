@@ -1,2 +1,5 @@
 # crosstalk
-catalyzing incoherence to innovation 
+transforming incoherence into innovation
+
+## Connect
+[Twitter](https://twitter.com/crosstalkbio)
