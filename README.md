@@ -1,4 +1,4 @@
-# crosstalk
+# Crosstalk Bio
 transforming incoherence into innovation
 
 ## Connect
