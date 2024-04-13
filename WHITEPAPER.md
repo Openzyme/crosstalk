@@ -1,1 +1,1 @@
-Whitepaper comming soon
+Whitepaper coming soon
