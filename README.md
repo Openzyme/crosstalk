@@ -1,5 +1,5 @@
 # Crosstalk Bio
 
 ## Connect
-[Discord](https://discord.gg/vqzxM9kR)
+[Zulip](https://crosstalkbio.zulipchat.com/join/dcczm6mezrs55cwyecfujjsn/)
 [Twitter](https://twitter.com/crosstalkbio)
